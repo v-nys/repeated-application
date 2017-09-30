@@ -67,6 +67,6 @@
  (contract-out
   (apply↑
    (->*
-    (procedure? exact-positive-integer?)
+    (exact-positive-integer? procedure?)
     #:rest (listof any/c)
     any))))
