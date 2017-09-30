@@ -1,0 +1,10 @@
+scribblings/*.html
+scribblings/*.css
+scribblings/*.js
+compiled
+doc
+*~
+*.sw*
+*#1#
+*#2#
+*#3#
